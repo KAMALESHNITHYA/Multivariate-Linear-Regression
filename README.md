@@ -48,7 +48,6 @@ print("Amount:",regr.predict([[3300,1300]]))
 ![image](https://github.com/KAMALESHNITHYA/Multivariate-Linear-Regression/assets/145743119/4b28aa3c-6ec7-4a4d-8d36-865d477207b0)
 ![Screenshot 2024-05-09 134803](https://github.com/KAMALESHNITHYA/Multivariate-Linear-Regression/assets/145743119/bb03642c-3dc9-47e6-b2ee-e9291962c440)
 
-### Insert your output
 
 <br>
 
